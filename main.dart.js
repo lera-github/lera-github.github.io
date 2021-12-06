@@ -56512,7 +56512,7 @@ n=T.ai(T.ch(H.a([p,C.bS,o,T.ai(M.c9("Question 1: "+C.kl[n]+"\nQuestion 2: "+C.kg
 p=$.ba
 return M.d8(l,m,Q.d7(!0,T.co(M.aL(m,T.dS(H.a([n,C.c9,T.ai(new T.f5(C.W,m,m,M.aL(m,m,m,m,new S.bD(m,X.i7(m,C.b9,new L.dD("assets/p20"+(p<9?"0":"")+(p+1)+".jpg",m,m)),m,C.iL,m,m,C.C),m,m,m,m),m),20)],s),C.t,q,m,C.ai,C.p,m,m,C.a9),m,m,m,m,m,C.ab,m),m,m),!0),new T.ca(C.bT,r,m))}}
 V.a2U.prototype={
-$1(a){return C.Ld},
+$1(a){return C.Lc},
 $S:19}
 V.a2X.prototype={
 $1(a){var s=this.a
@@ -56610,7 +56610,7 @@ p=this.e
 o=M.c9(p?"Interviewer":"",6,C.eU)
 return M.d8(m,n,Q.d7(!0,T.co(M.aL(n,T.dS(H.a([T.ai(T.ch(H.a([q,C.bS,T.ai(T.ck(H.a([T.ai(T.ch(H.a([o,p?T.ex(U.Ai("assets/din.gif",n,n,n),n,105):C.xy],s),C.P,C.p),1)],s),C.t,C.Y,C.p),60)],s),C.P,C.p),30)],s),C.t,r,n,C.ai,C.p,n,n,C.a9),n,n,n,n,n,C.ab,n),n,n),!0),n)}}
 R.a33.prototype={
-$1(a){return C.Lc},
+$1(a){return C.Lb},
 $S:19}
 R.a36.prototype={
 $1(a){var s=this.a
@@ -56710,7 +56710,7 @@ p=Y.fq(H.a([B.ei(q,C.aJ,24,new S.a3b(this),q)],s),!1,C.aF,p)
 r=o===C.aq?C.n:C.o
 return M.d8(p,q,Q.d7(!0,T.co(M.aL(q,T.dS(H.a([T.ai(T.ch(H.a([T.ai(T.ck(H.a([T.ai(M.c9("Task 3. Thank you very much for the interview.",6,C.b6),1)],s),C.t,C.Y,C.p),40),C.bS,T.ai(T.ck(H.a([T.ai(T.ch(H.a([M.c9("Interviewer",6,C.eU),T.ex(U.Ai("assets/din.gif",q,q,q),q,105)],s),C.P,C.p),1)],s),C.t,C.Y,C.p),60)],s),C.P,C.p),30)],s),C.t,r,q,C.ai,C.p,q,q,C.a9),q,q,q,q,q,C.ab,q),q,q),!0),q)}}
 S.a3c.prototype={
-$1(a){return C.Le},
+$1(a){return C.Ld},
 $S:19}
 S.a3f.prototype={
 $1(a){var s=this.a
@@ -56766,7 +56766,7 @@ s=a.P(t.w).f
 r=s.gdf(s)
 K.de(a).jU(V.eS(new U.a3j(this,r,a),null,t.z))}}
 U.a3n.prototype={
-$1(a){return C.Lb},
+$1(a){return C.La},
 $S:19}
 U.a3q.prototype={
 $1(a){var s,r=this.a
@@ -57053,7 +57053,7 @@ T.a75.prototype={
 $0(){return T.anX(this.a,this.b)},
 $S:0}
 T.a5Y.prototype={
-$1(a){return C.La},
+$1(a){return C.Le},
 $S:19}
 Z.a7e.prototype={
 $1(a){$.aar=!0},
@@ -61528,11 +61528,11 @@ C.hY=new P.oB(3,"TileMode.decal")
 C.L7=new A.v_(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.L8=new A.e3("Be ready for the answer","/pg11Screen","1",null)
 C.L9=new A.e3("Be ready for the test","/pg20Screen","2",null)
-C.La=new A.e3("Be ready for the test","/pg50Screen","1",null)
-C.Lb=new A.e3("Be ready for the answer","/pg41Screen","4",null)
-C.Lc=new A.e3("Be ready for the answer","/pg31Screen1","3",null)
-C.Ld=new A.e3("Be ready for the answer","/pg21Screen1","2",null)
-C.Le=new A.e3("Be ready for the test","/pg40Screen","4",null)
+C.La=new A.e3("Be ready for the answer","/pg41Screen","4",null)
+C.Lb=new A.e3("Be ready for the answer","/pg31Screen1","3",null)
+C.Lc=new A.e3("Be ready for the answer","/pg21Screen1","2",null)
+C.Ld=new A.e3("Be ready for the test","/pg40Screen","4",null)
+C.Le=new A.e3("Be ready for the test","/pg10Screen","1",null)
 C.Lf=new A.e3("Be ready for the test","/pg30Screen","3",null)
 C.Lg=new S.v0(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.cb=new N.E0(0.001,0.001)
